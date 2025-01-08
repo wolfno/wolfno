@@ -9,7 +9,6 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 - 🌱 I’m currently learning: Machine Learning, Deep Learning, Neural Networks
 - 💬 Ask me about: My favorite books about Machine Learning!
-- ⚡ Fun fact:
 
 ## My Skills
 
