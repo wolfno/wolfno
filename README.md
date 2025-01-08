@@ -17,14 +17,9 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 ## My Projects
 
-Here are some of my recent projects: (tba)
+Here are some of my recent projects:
 
-### [Project Name](link-to-project-repo)
-Description of the project. Highlight what it does, the technologies used, and any other relevant information.
-
-## GitHub Stats
-
-![wolfno's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfno&show_icons=true&theme=radical)
+(tba)
 
 ## Let's Connect!
 
