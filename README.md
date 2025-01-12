@@ -8,7 +8,6 @@ which already covers a lot of the fundamentals when it comes to building cutting
 ## About Me
 
 - 🌱 I’m currently learning: Machine Learning, Deep Learning, Neural Networks
-- 💬 Ask me about: My favorite books about Machine Learning!
 
 ## My Skills
 
@@ -19,7 +18,8 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 Here are some of my recent projects:
 
-(tba)
+- [Binary Classification Machine Learning Model predicting Mental Health Status](https://github.com/wolfno/ML_Binary-Classification)
+- more to come!
 
 ## Let's Connect!
 
