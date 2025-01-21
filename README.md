@@ -21,6 +21,9 @@ Here are some of my recent projects:
 # Binary Classification Machine Learning Model predicting Mental Health Status
     https://github.com/wolfno/ML_Binary-Classification
 
+# Regression of a Polynomial using three different Machine Learning Models
+    https://github.com/wolfno/ML_Polynomial-Regression
+
 # - more to come!
 
 ## Let's Connect!
