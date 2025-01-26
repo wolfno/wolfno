@@ -11,7 +11,7 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 ## My Skills
 
-- **Languages:** Python, R, C++
+- **Languages:** Python, R
 - **Packages:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ...
 
 ## My Projects
