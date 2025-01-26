@@ -21,11 +21,11 @@ Here are some of my recent projects:
 # Classification and Stacking of diverse Machine Learning Models
     https://github.com/wolfno/Classification_Stacking
 
-# Binary Classification Machine Learning Model predicting Mental Health Status
-    https://github.com/wolfno/ML_Binary-Classification
-
 # Regression of a Polynomial using three different Machine Learning Models
     https://github.com/wolfno/ML_Polynomial-Regression
+
+# Binary Classification Machine Learning Model predicting Mental Health Status
+    https://github.com/wolfno/ML_Binary-Classification
 
 # - more to come!
 
