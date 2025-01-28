@@ -18,6 +18,9 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 Here are some of my recent projects:
 
+# Ridge Regression and Hyperparameter Tuning
+    https://github.com/wolfno/ML_Ridge-Regression
+
 # Classification and Stacking of diverse Machine Learning Models
     https://github.com/wolfno/ML_Classification_Stacking
 
