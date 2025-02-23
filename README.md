@@ -14,9 +14,9 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm curren
   
     https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales
 
-* Ridge Regression and Hyperparameter Tuning
+* Recovering a noisy polynomial function
   
-    https://github.com/wolfno/ML_Ridge-Regression
+    [https://github.com/wolfno/ML_Ridge-Regression](https://github.com/wolfno/ML_Polynomial-Regression)
 
 * Classification and Stacking of diverse Machine Learning Models
   
