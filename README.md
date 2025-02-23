@@ -8,7 +8,7 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm curren
 - Languages: Python
 - Packages: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ...
 
-#### My Projects
+#### Select Projects
 
 * Preprocessing Data from Car Sale Platform
   
@@ -22,4 +22,3 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm curren
   
     https://github.com/wolfno/ML_Classification_Stacking
 
-* more to come!
