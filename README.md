@@ -1,3 +1,4 @@
+```
 # Hi there! 👋 My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician,
 # and I'm currently advancing my skills in Machine Learning with Python.
 
@@ -23,3 +24,4 @@ Here are some of my recent projects:
     https://github.com/wolfno/ML_Classification_Stacking
 
 # - more to come!
+```
