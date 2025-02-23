@@ -9,5 +9,5 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm curren
 
 * [Recovering a noisy polynomial function](https://github.com/wolfno/ML_Polynomial-Regression)
 
-* [Classification and Stacking of diverse Machine Learning Models](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction))
+* [Classification and Stacking of diverse Machine Learning Models](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
