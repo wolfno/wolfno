@@ -11,24 +11,21 @@ which already covers a lot of the fundamentals when it comes to building cutting
 
 ## My Skills
 
-- **Languages:** Python, R
+- **Languages:** Python
 - **Packages:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, ...
 
 ## My Projects
 
 Here are some of my recent projects:
 
+# Preprocessing Data from Car Sale Platform
+    https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales
+
 # Ridge Regression and Hyperparameter Tuning
     https://github.com/wolfno/ML_Ridge-Regression
 
 # Classification and Stacking of diverse Machine Learning Models
     https://github.com/wolfno/ML_Classification_Stacking
-
-# Regression of a Polynomial using three different Machine Learning Models
-    https://github.com/wolfno/ML_Polynomial-Regression
-
-# Binary Classification Machine Learning Model predicting Mental Health Status
-    https://github.com/wolfno/ML_Binary-Classification
 
 # - more to come!
 
