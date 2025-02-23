@@ -7,7 +7,7 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm curren
 
 * [Preprocessing Data from Car Sale Platform](https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales)
 
-* [Recovering a noisy polynomial function](https://github.com/wolfno/ML_Polynomial-Regression)
+* [Recovering a Noisy Polynomial Function](https://github.com/wolfno/ML_Polynomial-Regression)
 
 * [Classification and Stacking of diverse Machine Learning Models](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
