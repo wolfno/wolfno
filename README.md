@@ -1,4 +1,4 @@
-Hi there! 👋 
+### Hi there! 👋 
 
 My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm currently advancing my skills in Machine Learning with Python. In my Master's degree, I specialized in Stochastics, which already covers a lot of the fundamentals when it comes to building cutting-edge ML models.
 
