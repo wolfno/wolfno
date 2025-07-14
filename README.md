@@ -2,7 +2,11 @@
 
 My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and I'm currently advancing my skills in Machine Learning with Python. In my Master's degree, I specialized in Stochastics, which already covers a lot of the fundamentals when it comes to building cutting-edge ML models.
 
-Let's connect on [LinkedIn!](https://www.linkedin.com/in/noah-wolfahrt-a6a765358/) 
+#### Data Visualization
+
+Check out my insights about Austria's governmental income statistics here:
+
+* [Income Insights Austria](https://github.com/wolfno/Data-Visualization)
 
 #### Select Projects
 
