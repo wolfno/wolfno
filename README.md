@@ -1,4 +1,4 @@
-### Data means Information. 
+### In the age of information, data is the currency of progress.
 
 My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and here are some of my projects:
 
