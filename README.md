@@ -4,7 +4,7 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and here are s
 
 #### Data Visualization (created with Tableau)
 
-* [Income Insights Austria](https://github.com/wolfno/Data-Visualization)
+* [Income Insights Austria](https://github.com/wolfno/Data-Visualization/tree/main/Income%20Insights)
 
   <img src="https://github.com/wolfno/Data-Visualization/blob/main/Education%20and%20Income.png" height="200" />
   <img src="https://github.com/wolfno/Data-Visualization/blob/main/Income%20by%20Districts.png" height="200" />
