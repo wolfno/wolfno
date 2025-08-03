@@ -7,7 +7,7 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and here are s
 * [Income Insights Austria](https://github.com/wolfno/Data-Visualization/tree/main/Income%20Insights)
 
   [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Education%20and%20Income.png" height="200" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
-  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Income%20by%20Districts.png" height="200" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
+  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Share%20of%20Graduates.png" height="200" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
 
 #### Data Processing
 
