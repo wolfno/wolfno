@@ -15,6 +15,6 @@ Here are some of my projects:
 
 * [Second-Hand Car Sales Data](https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales) (created with Matplotlib)
 
-  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_mileage.png" height="230" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
-  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_age.png" width="500" height="500" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
+  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_mileage.png" height="180" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
+  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_age.png" height="180" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
   
