@@ -1,6 +1,8 @@
 ### In the age of information, data is the currency of progress.
 
-My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and here are some of my projects:
+My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician.
+
+Here are some of my projects:
 
 #### Data Visualization
 
@@ -13,6 +15,6 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician, and here are s
 
 * [Second-Hand Car Sales Data](https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales) (created with Matplotlib)
 
-  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_price.png" height="200" />](https://github.com/wolfno/Data-Preprocessing/tree/main/UK%20Car%20Sales)
+  [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_mileage.png" height="230" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
   [<img src="https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/car_age.png" width="500" height="500" />](https://github.com/wolfno/Data-Preprocessing/blob/main/UK%20Car%20Sales/data_preprocessing.ipynb)
   
