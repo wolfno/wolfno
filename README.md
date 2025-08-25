@@ -4,6 +4,8 @@ My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician.
 
 Here are some of my projects:
 
+<br>
+
 ### AI Model Building
 
 * [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (created with Python/Scikit)
