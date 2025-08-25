@@ -1,4 +1,4 @@
-### In the age of information, data is the currency of progress.
+### Extracting Knowledge from Data.
 
 My name is Noah Wolfahrt, I'm a Data Scientist and Mathematician.
 
