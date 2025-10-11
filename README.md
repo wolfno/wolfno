@@ -8,7 +8,7 @@ Here are some of my projects:
 
 ### AI Model Building
 
-* [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (created with Python/Scikit)
+* [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook created with Python/Scikit)
 
   [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
