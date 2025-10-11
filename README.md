@@ -10,7 +10,7 @@ Here are some of my projects:
 
 * [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (created with Python/Scikit)
 
-  [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/stack.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
+  [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
 * [Predicting Real Estate Value from 70+ Features](https://github.com/wolfno/Model-Building/tree/main/Housing%20Regression) (created with Python/Scikit)
 
