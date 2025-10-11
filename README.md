@@ -12,7 +12,7 @@ Here are some of my projects:
 
   [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
-* [Predicting Real Estate Value from 70+ Features](https://github.com/wolfno/Model-Building/tree/main/Housing%20Regression) (created with Python/Scikit)
+* [Predicting Real Estate Value from 70+ Features](https://github.com/wolfno/Model-Building/tree/main/Housing%20Regression) (Jupyter Notebook created with Python/Scikit)
 
 <br>
 
