@@ -20,8 +20,8 @@ Here are some of my projects:
 
 * [Income Insights Austria](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights%20Austria/Income%20Insights%20Austria.pdf) (created with Tableau)
 
-  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Education%20and%20Income.png" height="180" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
-  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Share%20of%20Graduates.png" height="180" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
+  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights%20Austria/graphs/Education%20and%20Income.png" height="180" />](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights%20Austria/Income%20Insights%20Austria.pdf)
+  [<img src="https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights%20Austria/graphs/Share%20of%20Graduates.png" height="180" />]([https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights%20Austria/Income%20Insights%20Austria.pdf))
 
 <br>
 
