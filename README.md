@@ -10,13 +10,15 @@ Here are some of my projects:
 
 * [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) (Jupyter Notebook, Python)
 
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/put_plot.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
   [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/nn.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/call_plot.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+
+<br> </br>
 
 * [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook created with Python/Scikit)
 
   [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
-
-* [Estimating Real Estate Value from 70+ Features](https://github.com/wolfno/Model-Building/tree/main/Housing%20Regression) (Jupyter Notebook created with Python/Scikit)
 
 <br>
 
