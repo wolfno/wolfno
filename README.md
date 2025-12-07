@@ -10,9 +10,9 @@ Here are some of my projects:
 
 * [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) (Jupyter Notebook, Python)
 
-  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/put_plot.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
-  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/nn.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
-  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/call_plot.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/put_plot.png" height=160 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/nn.png" height=160 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/call_plot.png" height=160 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
 
 <br> </br>
 
