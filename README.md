@@ -8,6 +8,10 @@ Here are some of my projects:
 
 ### AI Model Building
 
+* [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) (Jupyter Notebook, Python)
+
+  [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/nn.png" height=180 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
+
 * [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook created with Python/Scikit)
 
   [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
