@@ -6,6 +6,10 @@ Welcome to my Github page! Here are some of my projects:
 
 ### [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) (Jupyter Notebook, Python).
 
+Using well-documented, scalable quantitative models from financial analysis and combining them with </br>
+the power of **Deep Learning**, this notebook demonstrates how stock prices can be inferred from other </br>
+financial data. Use option prices to find the real fair price for a stock - and trade accordingly.
+
 <br>
 
   [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/call_plot.png" height=160 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) &nbsp; &nbsp; &nbsp; &nbsp;
@@ -13,6 +17,7 @@ Welcome to my Github page! Here are some of my projects:
   [<img src="https://github.com/wolfno/DeepPricing/blob/main/github/put_plot.png" height=160 />](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb)
 
 <br> </br>
+
 
 ### [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook created with Python/Scikit).
 
