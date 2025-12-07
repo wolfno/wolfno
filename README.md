@@ -4,7 +4,7 @@ Welcome to my Github page! Here are some of my projects:
 
 ## AI Model Building
 
-### [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main/main.ipynb) (Jupyter Notebook, Python).
+### [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main) (Jupyter Notebook, Python).
 
 Using well-documented, scalable quantitative models from financial analysis and combining them with </br>
 the power of **Deep Learning**, this notebook demonstrates how stock prices can be inferred from other </br>
