@@ -4,11 +4,11 @@ Welcome to my Github page! Here are some of my projects:
 
 ## AI Model Building
 
-### [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main) (Jupyter Notebook, Python).
+### [Stock Price Prediction with Neural Networks](https://github.com/wolfno/DeepPricing/tree/main) (Jupyter Notebook, Python/Tensorflow).
 
 Using well-documented, scalable quantitative models from financial analysis and combining them with </br>
 the power of **Deep Learning**, this notebook demonstrates how stock prices can be inferred from other </br>
-financial data. Use option prices to **find a fair stock price** - and trade accordingly.
+financial data. Use option prices to **find a fair stock price**.
 
 <br>
 
@@ -19,7 +19,7 @@ financial data. Use option prices to **find a fair stock price** - and trade acc
 <br> </br>
 
 
-### [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook created with Python/Scikit).
+### [Predicting Forest Types by Satellite Images](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction) (Jupyter Notebook, Python/Scikit).
 
   [<img src="https://github.com/wolfno/Model-Building/blob/main/Forest%20Cover%20Prediction/output/model_architecture.png" height="180" />](https://github.com/wolfno/Model-Building/tree/main/Forest%20Cover%20Prediction)
 
