@@ -8,7 +8,7 @@ Welcome to my Github page! Here are some of my projects:
 
 Using well-documented, scalable quantitative models from financial analysis and combining them with </br>
 the power of **Deep Learning**, this notebook demonstrates how stock prices can be inferred from other </br>
-financial data. Use option prices to find the real fair price for a stock - and trade accordingly.
+financial data. Use option prices to **find a fair stock price** - and trade accordingly.
 
 <br>
 
