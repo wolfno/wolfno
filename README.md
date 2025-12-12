@@ -1,4 +1,6 @@
-Welcome to my Github page! Here are some of my projects:
+### All models are wrong, but some are useful.
+
+Welcome to my GitHub page! Here are some of my projects:
 
 <br>
 
